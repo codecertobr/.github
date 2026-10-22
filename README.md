@@ -1,5 +1,11 @@
-<h1 align="center">CodeCerto</h1>
-<p align="center"><strong>Tecnologia e soluções digitais</strong></p>
+<p align="center">
+  <a href="https://codecerto.com.br">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/codecertobr/.github/raw/main/profile/logo-escuro.png">
+      <img src="https://github.com/codecertobr/.github/raw/main/profile/logo-claro.png" alt="CodeCerto — Tecnologia e soluções digitais" width="420">
+    </picture>
+  </a>
+</p>
 <p align="center">
   <a href="https://codecerto.com.br">codecerto.com.br</a> ·
   <a href="mailto:contato@codecerto.com.br">contato@codecerto.com.br</a>
@@ -23,9 +29,9 @@ Desenvolvemos **sites, sistemas web e painéis administrativos** sob medida para
 - Documentação de publicação e de uso entregue junto com o projeto
 
 ### Tecnologias
-**Back-end:** PHP · .NET (C#) · Python
-**Front-end:** React · Vue · Angular · JavaScript/TypeScript · Bootstrap
-**Bancos de dados:** MySQL · PostgreSQL · SQL Server
+- **Back-end:** PHP · .NET (C#) · Python
+- **Front-end:** React · Vue · Angular · JavaScript/TypeScript · Bootstrap
+- **Bancos de dados:** MySQL · PostgreSQL · SQL Server
 
 ---
 
@@ -33,3 +39,4 @@ Desenvolvemos **sites, sistemas web e painéis administrativos** sob medida para
   Os projetos de clientes são mantidos em repositórios privados.<br>
   Quer conversar sobre um projeto? <a href="https://codecerto.com.br">Fale com a gente</a>.
 </p>
+
